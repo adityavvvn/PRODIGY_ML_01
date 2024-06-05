@@ -1,1 +1,1 @@
-# PRODIGY_Machine-Learning_Task1
+# PRODIGY_ML_01
